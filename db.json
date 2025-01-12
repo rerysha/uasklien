@@ -1,0 +1,14 @@
+{
+    "users": [
+      { "id": 1, "name": "Admin", "email": "admin@gmain.com", "password": "admin123" }
+    ],
+    
+      "reports": [
+        { "id": 1, "location": "Semarang Barat", "description": "Banjir parah di wilayah barat." },
+        { "id": 2, "location": "Semarang Timur", "description": "Air mulai surut di beberapa tempat." },
+        { "id": 3, "location": "Semarang Tengah", "description": "Genangan di jalan utama." }
+      ]
+    
+    
+} 
+  
